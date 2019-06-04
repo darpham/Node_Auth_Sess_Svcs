@@ -1,0 +1,5 @@
+authTut/client/cookie-file.txt
+
+authTut/server/sessions/*
+
+!authTut/server/sessions.gitkeep
